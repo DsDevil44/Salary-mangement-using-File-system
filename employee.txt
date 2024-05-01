@@ -1,0 +1,14 @@
+Enumber EName   EPost           salary  company     salarytype
+						
+101	Amit	Worker		35000	python	    paid	
+102	ritu	Superwisor	50000	python      paid
+103	Dev	labour		30000	python      unpaid
+201	Hemant	Pune		40000	python      paid
+202	Aditya	Manager		75000	python      unpaid
+203	Raj	Office Head	80000	python      paid
+301	Sumit	Vice-manager	65000	python      unpaid
+302	Akash	Worker		35000	python      paid
+302	Nitsh	Pune		40000	python      unpaid
+401	Ritik	Superwisor	50000	python      unpaid
+402	Abhay	Guard		35000	python      paid
+403	nisha   manager         50000   python      paid
